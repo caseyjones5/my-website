@@ -1,4 +1,8 @@
-/* Place your CSS styles in this file */
+
+body {
+	color: red;
+	background-color: powderblue;
+}
 
 h1 {
     text-align: center;
@@ -12,8 +16,4 @@ p {
 	color: red;
 }
 
-body {
-	color: red;
-	background-color: MediumSeaGreen;
-}
 
