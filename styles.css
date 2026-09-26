@@ -21,21 +21,22 @@ p {
 	color: red;
 }
 
+/* unvisited link */
 a:link {
-  color: #1a73e8;
+  color: red;
 }
 
-/* 2. Visited state */
+/* visited link */
 a:visited {
-  color: #a142f4;
+  color: green;
 }
 
-/* 3. Hover state (Mouseover) */
+/* mouse over link */
 a:hover {
-  color: #1557b0;
+  color: hotpink;
 }
 
-/* 4. Active state (While being clicked) */
+/* selected link */
 a:active {
-  color: #d93025;
+  color: blue;
 }
