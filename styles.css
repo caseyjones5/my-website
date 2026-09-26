@@ -21,4 +21,21 @@ p {
 	color: red;
 }
 
+a:link {
+  color: #1a73e8;
+}
 
+/* 2. Visited state */
+a:visited {
+  color: #a142f4;
+}
+
+/* 3. Hover state (Mouseover) */
+a:hover {
+  color: #1557b0;
+}
+
+/* 4. Active state (While being clicked) */
+a:active {
+  color: #d93025;
+}
